@@ -5,7 +5,8 @@ Tujuan saya membuat game ini adalah agar kita mengetahui ada beberapa hewan yang
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-bla bla bla
+- Untuk Membuat programnya saya menggunakan aplikasi Visual Studio Code,
+- Bagian Frontend saya menggunakan beberapa kombinasi seperti CSS, BOOTSTRAP, dan JAVASCRIPT
 
 ## 1.3. Branding
 
