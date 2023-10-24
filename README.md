@@ -11,7 +11,7 @@ Tujuan saya membuat game ini adalah agar kita mengetahui ada beberapa hewan yang
 ## 1.3. Branding
 
 - Merk: A Small Example Of Metamorphosis
-- Tagline: "let's learn the biology of metamorphosis"
+- Tagline: "Let's study the biological symptoms of metamorphosis"
 - Campaign:  
 - Target user:
     - Usia 5+
