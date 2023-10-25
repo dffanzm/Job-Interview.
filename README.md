@@ -23,13 +23,18 @@ Tujuan saya membuat game ini adalah agar kita mengetahui ada beberapa hewan yang
     - sesuai dengan habitatnya
     - background dedaunan hutan seakan akan banyak ulat yang akan bermetamorfosis
     - inspirasi desain:
+ 
+      
+      ![inspirasi](/game-dino.jpg)
+
    
 
 ## 2. User Story
-
-bla | bla | bla | bla
+Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+User | menenangkan pikiran | saya berpikir jernih | ⭐⭐⭐⭐⭐
+User | menghilangkan penat | mood saya naik| ⭐⭐⭐⭐⭐⭐
+User | membayangkan proses metamorfosis terjadi | agar pengetahuan saya bertambah | ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
@@ -37,8 +42,8 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 
 ```mermaid
 erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
+    GAME ||--o{ SISTEM : TERSUSUN
+    PENGGUNA ||--|{ GAME : MAINKAN
 ```
 
 ## 4. Arsitektur Sistem
