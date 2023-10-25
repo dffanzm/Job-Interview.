@@ -22,6 +22,7 @@ Tujuan saya membuat game ini adalah agar kita mengetahui ada beberapa hewan yang
     - Sederhana
     - sesuai dengan habitatnya
     - background dedaunan hutan seakan akan banyak ulat yang akan bermetamorfosis
+    - inspirasi desain:
    
 
 ## 2. User Story
