@@ -35,13 +35,15 @@ Sebagai | Saya ingin bisa | Sehingga | Prioritas
 User | menenangkan pikiran | saya berpikir jernih | ⭐⭐⭐⭐⭐
 User | menghilangkan penat | mood saya naik| ⭐⭐⭐⭐⭐⭐
 User | membayangkan proses metamorfosis terjadi | agar pengetahuan saya bertambah | ⭐⭐⭐⭐⭐
+User | melihat ending dari game ini | saya mengetahuinya | ⭐⭐⭐⭐
+User | perkembangan char dari game ini| saya dapat melihat perkembangan karakter dari game ini|⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
 
 ```mermaid
 erDiagram
-    GAME ||--o{ SISTEM : TERSUSUN
+    Pemain ||--o{ SISTEM : TERSUSUN
     PENGGUNA ||--|{ GAME : MAINKAN
 ```
 
