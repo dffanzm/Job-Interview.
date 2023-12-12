@@ -4,9 +4,11 @@
 Tujuan saya membuat game ini adalah agar kita mengetahui ada beberapa hewan yang proses perkembangan biologinya melibatkan perubahan penampilan dan/atau struktur setelah kelahiran atau penetasan yaitu metamorfosis,dikareanakan tidak semua hewan dalam masa pertumbuhannya tidak berubah bentuk dari ulat menjadi kupu-kupu,dari awalnya saya diskusi bersama teman teman lalu saya ada kepikiran untuk membuat game ini dari di ajarkan smp maupun sma di pelajaran biologi lalu saya ingin membuatnya ke dalam game 2d.
 
 ## 1.2. Deksripsi Teknologi Informasi
-
+- database akan menggunakan Mysqldatabase akan menggunakan Mysql,
 - Untuk Membuat programnya saya menggunakan aplikasi Visual Studio Code,
-- Bagian Frontend saya menggunakan beberapa kombinasi seperti CSS, BOOTSTRAP, dan JAVASCRIPT
+- Untuk bahasa pemograman saya menggunakan Jvascript,Html,dan Css
+- Untuk desain menggunakan figma
+  
 
 ## 1.3. Branding
 
@@ -37,19 +39,22 @@ User | menghilangkan penat | mood saya naik| ⭐⭐⭐⭐⭐⭐
 User | membayangkan proses metamorfosis terjadi | agar pengetahuan saya bertambah | ⭐⭐⭐⭐⭐
 User | melihat ending dari game ini | saya mengetahuinya | ⭐⭐⭐⭐
 User | perkembangan char dari game ini| saya dapat melihat perkembangan karakter dari game ini|⭐⭐⭐⭐⭐
+Admin| bisa mengupdate scoreboard | saya bisa melihat score saya sendiri|⭐⭐⭐⭐
+Admin| bisa meriset score | saya bisa terus mengejar score orang lain | ⭐⭐⭐⭐⭐
+Admin| ban cheater | game saya bersih tanpa ada kecurangan| ⭐⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
+![Screenshot (57)](https://github.com/dffanzm/Job-Interview./assets/144572098/685ca1f0-0368-4ec2-94e4-6fdc93b572fa)
 
-```mermaid
-erDiagram
-    Pemain ||--o{ SISTEM : TERSUSUN
-    PENGGUNA ||--|{ GAME : MAINKAN
-```
 
 ## 4. Arsitektur Sistem
 
-Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
+```mermaid
+flowchart TD
+    id1[(Database: MySQL)] <--> id2[Aplikasi Web Backend: PHP ] <--> id3[Web Server: Larafel]  
+```
+
 
 ## 5. Teknologi, Library, dan Framework
 
