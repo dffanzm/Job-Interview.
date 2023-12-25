@@ -65,7 +65,7 @@ No | Teknologi | Library | Framework
 ## 6. Desain User Experience dan User Interface
 
 Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+https://www.figma.com/file/FFk2LMaflklLfx33y3Bxor/Untitled?type=design&node-id=0-1&mode=design&t=pgyG18HW9IVVXTI9-0
 
 ## 7. Demonstrasi Video
 
