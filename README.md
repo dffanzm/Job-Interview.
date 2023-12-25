@@ -14,7 +14,7 @@ Tujuan saya membuat game ini adalah agar kita mengetahui ada beberapa hewan yang
 
 - Merk: A Small Example Of Metamorphosis
 - Tagline: "Let's study the biological symptoms of metamorphosis"
-- Campaign:  
+- Campaign: memberi gambaran mudah tentang gejala biologis,metamorfosis
 - Target user:
     - Usia 5+
     - Seorang yang ingin mendapat gambaran dari gejala biologi metamorfosis
