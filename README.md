@@ -1,7 +1,7 @@
 # Job-Interview.
 ## 1.1 Latar Belakang
 
-Tujuan saya membuat game ini adalah agar kita mengetahui ada beberapa hewan yang proses perkembangan biologinya melibatkan perubahan penampilan dan/atau struktur setelah kelahiran atau penetasan yaitu metamorfosis,dikareanakan tidak semua hewan dalam masa pertumbuhannya tidak berubah bentuk dari ulat menjadi kupu-kupu,dari awalnya saya diskusi bersama teman teman lalu saya ada kepikiran untuk membuat game ini dari di ajarkan smp maupun sma di pelajaran biologi lalu saya ingin membuatnya ke dalam game 2d.
+Tujuan saya membuat game ini adalah agar kita mengetahui ada beberapa hewan yang proses perkembangan biologinya melibatkan perubahan penampilan dan/atau struktur setelah kelahiran atau penetasan yaitu metamorfosis,dikareanakan tidak semua hewan dalam masa pertumbuhannya tidak berubah bentuk dari ulat menjadi kupu-kupu,dari awalnya saya diskusi bersama teman teman lalu saya ada kepikiran untuk membuat game ini dari di ajarkan smp maupun sma di pelajaran biologi lalu saya ingin membuatnya ke dalam game 2d,Tujuan dari adanya game diantaranya adalah sebagai media hiburan, pendidikan, ataupun tujuan lainnya. Keberadaan game memiliki dampak yang besar, baik itu dampak positif yang ditimbulkan dengan adanya game, maupun dampak negatifnya.
 
 ## 1.2. Deksripsi Teknologi Informasi
 - database akan menggunakan Mysqldatabase akan menggunakan Mysql,
